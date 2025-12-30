@@ -64,6 +64,11 @@ This repository documents my learning journey in Machine Learning and Data Scien
 - Support Vector Machines (Hard Margin, Soft Margin, Kernel Trick)
 - Decision Trees (CART, Gini Impurity, Entropy, Pruning)
 
+### Clustering
+- K Means
+- DBSCAN
+- Hierarchical Clustering
+
 ### Evaluation Metrics
 - Confusion Matrix
 - Accuracy, Precision, Recall, F1 Score
