@@ -1,4 +1,4 @@
-# Machine Learning & Data Science Learning Journey
+# Data Science & Machine Learning 
 
 This repository documents my learning journey in Machine Learning and Data Science, featuring projects, experiments, and detailed notes compiled throughout my studies.
 
