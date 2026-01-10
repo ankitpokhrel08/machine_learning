@@ -1,4 +1,5 @@
 # Data Science & Machine Learning 
+<img width="1024" height="1024" alt="Gemini_Generated_Image_asi4gaasi4gaasi4" src="https://github.com/user-attachments/assets/a37b3452-c0e4-4030-98ff-1721add99dac" />
 
 This repository documents my learning journey in Machine Learning and Data Science, featuring projects, experiments, and detailed notes compiled throughout my studies.
 
